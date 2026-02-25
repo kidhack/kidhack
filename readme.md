@@ -1,6 +1,4 @@
-hi there 👋 i’m Alex.
-
-i’m a product design leader who likes to build.
+hi there 👋.
 
 ## Milestones
 - 1996: first website - local florist (high school)
