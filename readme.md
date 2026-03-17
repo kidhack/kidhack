@@ -1,15 +1,16 @@
 hi there 👋.
 
-## Milestones
-- 1996: first website - local florist (high school)
-- 1999: first design job - internship at The Attik
-- 2006: first mobile design - Disney on Nokia
-- 2008: first iOS design - 3Jam messenger
-- 2011: design helped win TechCrunch Disrupt - Getaround
-- 2016: work featured in an Apple Keynote - Getaround
-- 2018: first web3 product design
-- 2022: first AI product design
-- 2025: first fully coded app - Moto Wallet
+## Firsts
+- 1996: website - local florist (high school)
+- 1999: design job - internship at The Attik
+- 2005: design product design - Microsoft
+- 2006: mobile product design - Disney on Nokia
+- 2008: iOS design - 3Jam messenger
+- 2011: award - TechCrunch Disrupt - Getaround
+- 2016: featured in an Apple Keynote - Getaround
+- 2018: web3 product design - BlackRock @ Originate
+- 2022: conversational AI product design - Airkit
+- 2025: fully designed & coded app - Moto Wallet
 
 ## Work history
 - Nu Design Agency - Founder
