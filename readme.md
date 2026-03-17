@@ -3,7 +3,7 @@ hi there 👋.
 ## Firsts
 - 1996: website - local florist (high school)
 - 1999: design job - internship at The Attik
-- 2005: design product design - Microsoft
+- 2005: desktop product design - Microsoft
 - 2006: mobile product design - Disney on Nokia
 - 2008: iOS design - 3Jam messenger
 - 2011: award - TechCrunch Disrupt - Getaround
@@ -15,12 +15,13 @@ hi there 👋.
 ## Work history
 - Nu Design Agency - Founder
 - Friendster - Lead Designer (redesign)
-- Getaround - Founding Designer
+- Getaround - Founding Designer -> Director of Design
 - Originate - Director of Design
 - Dfinity - Founding Designer
-- Windranger - Director of Design
+- Windranger - Founder -> Director of Design
 - Airkit - Head of Design
 - BitGo - Director of Design
+- Bonfire Agency - Founder
 
 ## Interests
 building, DJing, event production
