@@ -10,7 +10,8 @@ hi there 👋.
 - 2016: featured in an Apple Keynote - Getaround
 - 2018: web3 product design - BlackRock @ Originate
 - 2022: conversational AI product design - Airkit
-- 2025: fully designed & coded app - Moto Wallet
+- 2025: fully designed & coded web app - Moto Wallet
+- 2025: fully coded mac app - NeuralJack
 
 ## Work history
 - Nu Design Agency - Founder
